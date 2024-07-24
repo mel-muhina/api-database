@@ -1,6 +1,6 @@
-* Simple API Database Intergration
+# Simple API Database Intergration
 
-** To Run
+##  To Run
 
 To run, please run GIT init in your chosen terminal after having located the folder location.
 
